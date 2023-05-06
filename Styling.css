@@ -21,7 +21,7 @@ progress {
     border: 1px solid gray;
  }
  progress::-webkit-progress-value {
-    background-color: hsl(120, 88%, 43%);
+    background-color: aquamarine;
     border-radius: 25px;
     border: 1px solid gray;
  }
@@ -69,7 +69,6 @@ h4 {
 }
 .skillsTwo {
     float: right;
-    padding-left: 400px;
 }
 .container {
 
